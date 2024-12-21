@@ -237,6 +237,16 @@ h2 {
   margin-top: 50px;
 }
 
+.hh-poster-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hh-poster {
+    width: 500px; 
+}
+
 /* MERCH */
 
 #merch-landing {
